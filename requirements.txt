@@ -1,3 +1,4 @@
-ansible>=2.3.0
+ansible>=7.0.0
 netaddr
 jinja2>=2.9.6
+ansible-core>=2.18.0 # not directly required, pinned by Snyk to avoid a vulnerability
